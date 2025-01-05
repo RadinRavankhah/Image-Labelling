@@ -28,15 +28,15 @@ pip install Pillow
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/image-labeling-app.git
+   git clone https://github.com/MrRad1st/Image-Labelling.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd image-labeling-app
+   cd Image-Labelling
    ```
 3. Run the application:
    ```bash
-   python app.py
+   python main.py
    ```
 
 ## How to Use
