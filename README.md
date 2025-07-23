@@ -87,7 +87,7 @@ The annotations are saved in the following structure:
 Contributions are welcome! Feel free to submit issues or pull requests to improve the app.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
 
 ## Acknowledgments
 - Developed using the [Tkinter](https://docs.python.org/3/library/tkinter.html) library.
