@@ -1,10 +1,5 @@
-# Image-Labelling
-A simple app made to label items in images for training computer vision models
-
-
 # Image Labeling App
-
-An intuitive desktop application built with Python and Tkinter that allows users to label images by creating polygons over regions of interest and associating them with custom labels. The labeled data is saved as a JSON file, which can be used for tasks such as image annotation, machine learning datasets, and more.
+A lightweight image annotation app with Desktop GUI using Python (Tkinter + PIL). Supports polygon drawing, zoom/pan navigation, and JSON export for machine learning datasets.
 
 ## Features
 - **Load Images:** Import images (PNG, JPG, JPEG) for labeling.
